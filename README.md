@@ -14,7 +14,7 @@ SolSnipe is an advanced Solana meme coin analyzer that helps traders identify op
 
 ### Contact
 For support inquiries, please email:
-**support@solsnipe.app** *(or your actual email)*
+**gassanjaam@gmail.com** *(or your actual email)*
 
 ### Response Time
 We typically respond within 24-48 hours during business days.
@@ -134,7 +134,7 @@ SolSnipe is rated 17+ and not intended for children under 17.
 
 ### Contact
 
-For privacy questions: **privacy@solsnipe.app**
+For privacy questions: **gassanjaam@gmail.com**
 
 ---
 
@@ -251,7 +251,7 @@ SolSnipe aggregates data from multiple sources. Data may be delayed by 10-30 sec
 
 ## 📧 Contact
 
-**Email**: support@solsnipe.app  
+**Email**: gassanjaam@gmail.com  
 **Twitter**: @SolSnipe (coming soon)  
 
 ---
